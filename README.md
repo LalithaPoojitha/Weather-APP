@@ -25,7 +25,7 @@ A Weather App is a web application that provides current weather conditions and 
 4. UI Update: The app updates the UI with the current weather conditions and forecast.
 
 ## Result:
-<a href="
+<a href="https://github.com/LalithaPoojitha/Weather-APP/blob/main/Screenshot%202025-06-07%20013945.png"> Weather App Output </a>
 
 ## Conclusion:
 
